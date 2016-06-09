@@ -250,3 +250,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# Intentionally ignore DLL files and other artifacts missed by GitHub
+*.dll
+*proj.filters
